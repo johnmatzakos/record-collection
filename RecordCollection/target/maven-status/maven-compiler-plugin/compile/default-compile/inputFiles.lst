@@ -1,0 +1,11 @@
+C:\Users\imatz\Documents\Workspace-Spring-Tool-Suite\RecordCollection\src\main\java\com\recordcollection\RecordCollectionApplication.java
+C:\Users\imatz\Documents\Workspace-Spring-Tool-Suite\RecordCollection\src\main\java\com\recordcollection\services\RecordServiceJpaDaoImpl.java
+C:\Users\imatz\Documents\Workspace-Spring-Tool-Suite\RecordCollection\src\main\java\com\recordcollection\services\CRUDService.java
+C:\Users\imatz\Documents\Workspace-Spring-Tool-Suite\RecordCollection\src\main\java\com\recordcollection\controllers\IndexController.java
+C:\Users\imatz\Documents\Workspace-Spring-Tool-Suite\RecordCollection\src\main\java\com\recordcollection\domains\DomainObject.java
+C:\Users\imatz\Documents\Workspace-Spring-Tool-Suite\RecordCollection\src\main\java\com\recordcollection\controllers\RecordController.java
+C:\Users\imatz\Documents\Workspace-Spring-Tool-Suite\RecordCollection\src\main\java\com\recordcollection\domains\Record.java
+C:\Users\imatz\Documents\Workspace-Spring-Tool-Suite\RecordCollection\src\main\java\com\recordcollection\bootstrap\SpringJPABootstrap.java
+C:\Users\imatz\Documents\Workspace-Spring-Tool-Suite\RecordCollection\src\main\java\com\recordcollection\services\AbstractMapService.java
+C:\Users\imatz\Documents\Workspace-Spring-Tool-Suite\RecordCollection\src\main\java\com\recordcollection\services\RecordServiceImpl.java
+C:\Users\imatz\Documents\Workspace-Spring-Tool-Suite\RecordCollection\src\main\java\com\recordcollection\services\RecordService.java
